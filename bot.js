@@ -9,7 +9,7 @@ client.on('ready', () => {
     console.log(`on  ${client.guilds.size} Servers `);
     console.log(`~~~~~~~~~~~~~~~~~~~~~~~~`);
     console.log(`Logged in as ${client.user.tag}!`);
-    client.user.setGame(`#TheH1ts clan|$Help`,"http://twitch.tv/y04zgamer")
+    client.user.setGame(`|$Help`,"http://twitch.tv/y04zgamer")
     client.user.setStatus("dnd")
  });
  
